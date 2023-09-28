@@ -1,6 +1,6 @@
 import os #OS Python provides functions for interacting with the operating system
 import shutil #shutil in python helps in creating folders and directories
-#the code can be ammended as per your usage of organising files very easily, you can change the name of the file or check different extensions or file name and follow the same steps as in the code
+#the code can be amended as per your usage of organising files very easily, you can change the name of the file or check different extensions or file name and follow the same steps as in the code
 src = '.'
 ppt_files = []
 pdf_files = []
